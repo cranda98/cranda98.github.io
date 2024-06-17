@@ -1,13 +1,18 @@
+#Update all the sections by editing the data.yml file inside _data folder.
+
 # Site Settings
 title: Lauryn O. Crandall's Portfolio
-url: 'https://cranda98.github.io'
+url: 'https://cranda98.github.io
 
-# description and theme
+#change it according to your repository name
+# disabling since we are using a custom domain
+#baseurl: '/online-cv' 
+
 description: Welcome to my professional online portfolio. This repository contains the source code for my personal website/resume. Below you can find information about me, my skills, and my projects.
 theme_skin: green # blue turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
-# Tracker (if you have Google Analytics, update with your ID)
+# Tracker
 analytics: UA-83979019-1
 
 # Sass/SCSS
@@ -28,39 +33,3 @@ compress_html: # - http://jch.penibelst.de/
 port: 4000
 host: 0.0.0.0
 safe: false
-
-# Portfolio Information
-about:
-  title: About Me
-  description: I am a passionate college student with experience in data science and programming.
-  profile_image: prof_pic.jpg
-  contact:
-    - type: Email
-      value: cranda98@msu.edu
-    - type: LinkedIn
-      value: https://www.linkedin.com/in/lauryncrandall/
-    - type: GitHub
-      value: https://github.com/cranda98
-
-skills:
-  - HTML
-  - CSS
-  - Python
-  - C++
-  - Git & GitHub
-  - Excel
-
-projects:
-  - title: Can AI Pick a Competitive Pokemon Team?
-    description: A team of people and I built an AI that could pick a “competitive” Pokemon team.
-  - title: GE Aviation Cycle Time Calculator
-    description: I made a program that would take teams' data from projects and calculate how long they took based on that start date, coding date, de-bugging date, end date, etc.
-  - title: Exploring Financial Factors Influencing Credit Card Limit
-    description: A team of people and I took a credit card dataset and analyzed what financial factors influenced credit card limits.
-
-footer:
-  text: >
-    Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-    Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-    Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-
