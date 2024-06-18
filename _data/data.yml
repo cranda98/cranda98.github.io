@@ -61,7 +61,7 @@ education:
         time: 2021 - Present
         details: |
           My degree combines the fields of computer science, statistics, and domain-specific knowledge to equip me with the skills needed to analyze, interpret, and extract meaningful insights from complex data sets. 
-            - Relevant coursework: CMSE 202-203, CSE 232, STT 180
+            - Relevant coursework: CSE 102, MTH 234, CMSE 202-203, CSE 232, STT 180
 
 experiences:
     title: Experiences
@@ -90,7 +90,7 @@ projects:
         tagline: "A team of people and I built an AI that could pick a 'competitive' Pokemon team."
 
       - title: GE Aviation cycle time calculator
-        link: "#"
+        link: "https://github.com/crandalllauryn/ge"
         tagline: "I made a program that calculates project cycle times based on team data."
 
       - title: Exploring Financial Factors Influencing Credit Card Limit
