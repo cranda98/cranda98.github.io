@@ -49,9 +49,12 @@ sidebar:
         - item: Learning New Things
           link:
 
-    scan me:
+    link:
       title: Interesting in Hiring?
-      avatar: MailXto.png
+      info:
+        - item: Click Here!
+          link: "mailxto.com/fg97whl4kq"
+      
           
 career-profile:
     title: Career Profile
