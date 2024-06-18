@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     email: cranda98@msu.edu
     phone: 269 252 2914
-    timezone: Eastern Standard Timezone
+    timezone: Eastern Standard Time
     citizenship:
     website: #do not add http://
     linkedin: lauryncrandall
@@ -67,7 +67,7 @@ experiences:
     title: Experiences
     info:
       - role: Systems Engineer Intern
-        time: Summer 2023
+        time: Summer 2022
         company: GE Aviation, Grand Rapids
         details: |
           Worked on data analysis and programming.
