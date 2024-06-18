@@ -8,7 +8,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Lauryn O. Crandall
+    name: Lauryn Crandall
     tagline: Data Scientist & Programmer
     avatar: #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -28,31 +28,31 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf:
+    pdf: 
 
     languages:
       title: Languages
       info:
         - idiom: English
           level: Native
-          
+
+
     interests:
       title: Interests
       info:
         - item: Video Games
           link:
 
-        - item: My Pet Birds
+        - item: Making Bird Memes
           link:
 
-        - item: Making Bird Memes
+        - item: Learning New Things
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      I am a passionate college student with experience in data science and programming.
-      I have worked on several projects that demonstrate my skills and expertise in this field.
+      I am a passionate college student with experience in data science and programming. I have worked on several projects that demonstrate my skills and expertise in this field.
 education:
     title: Education
     info:
@@ -60,16 +60,14 @@ education:
         university: Michigan State University
         time: 2021 - Present
         details: |
-          My degree combines the fields of computer science, statistics, 
-          and domain-specific knowledge to equip me with the skills needed to analyze, 
-          interpret, and extract meaningful insights from complex data sets. 
+          My degree combines the fields of computer science, statistics, and domain-specific knowledge to equip me with the skills needed to analyze, interpret, and extract meaningful insights from complex data sets. 
             - Relevant coursework: CMSE 202-203, CSE 232, STT 180
 
 experiences:
     title: Experiences
     info:
       - role: Systems Engineer Intern
-        time: Summer 2022
+        time: Summer 2023
         company: GE Aviation, Grand Rapids
         details: |
           Worked on data analysis and programming.
@@ -79,49 +77,8 @@ experiences:
         time: 2023 - Present
         company: Michigan State University, East Lansing
         details: |
-          Assisted in research projects related to data science.
+          Assisting in our research project app.
             - Analyzing large datasets using Python and Excel
-
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
     title: Projects
@@ -131,7 +88,7 @@ projects:
       - title: Can AI pick a competitive Pokemon team?
         link: "https://github.com/sureshs-6/cmse_proj_pokemon"
         tagline: "A team of people and I built an AI that could pick a 'competitive' Pokemon team."
-        
+
       - title: GE Aviation cycle time calculator
         link: "#"
         tagline: "I made a program that calculates project cycle times based on team data."
@@ -145,19 +102,19 @@ skills:
 
     toolset:
       - name: Python & R
-        level: 95%
-
-      - name: C++
-        level: 90%
+        level: 98%
 
       - name: Excel
-        level: 85%
+        level: 90%
 
       - name: Git & GitHub
         level: 80%
 
-      - name: HTML & CSS
-        level: 65%
+      - name: HTML5 & CSS
+        level: 75%
+
+      - name: C++
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
