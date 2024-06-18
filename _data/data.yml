@@ -72,6 +72,14 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Research Assistant
+        time: 2023 - Present
+        company: Michigan State University, East Lansing
+        details: |
+          Assisting in our research project app.
+            - Analyzing large datasets using Python and Excel
+            - Maintaining and updating the data cleansing program
+            - Developing a new "text cleaner" program for our datasets
       - role: Systems Engineer Intern
         time: Summer 2022
         company: GE Aviation, Grand Rapids
@@ -80,12 +88,6 @@ experiences:
             - Supporting teams by helping them improve flow and reduced waste in software development activities
             - Providing code that produces graphs that show the flow of products and where a team can improve cycle time and reduce waste
             - Data visualization through various kinds of graphs
-      - role: Research Assistant
-        time: 2023 - Present
-        company: Michigan State University, East Lansing
-        details: |
-          Assisting in our research project app.
-            - Analyzing large datasets using Python and Excel
 
 projects:
     title: Projects
