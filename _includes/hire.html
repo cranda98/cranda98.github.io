@@ -1,0 +1,22 @@
+{% assign hire = site.data.data.sidebar.hire %}
+{% if hire %}
+<div class="hire-container container-block">
+
+  <h2 class="container-block-title">
+    {{ hire.title }}
+  </h2>
+
+  <ul class="list-unstyled hire-list">
+    {% for hire in hire.info %}
+
+      {% if hire.link %}
+      <li><a href="{{ hire.link }}">{{ hire.item }}</a></li>
+      {% else %}
+      <li>{{ hire.item }}</li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+
+</div><!--//hire-->
+{% endif %}
