@@ -52,7 +52,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I've always been drawn to creative problem-solving, starting with my childhood fascination with computers and puzzle games. My passion evolved into a focused pursuit, leading me to pursue a Data Science degree at Michigan State University. Throughout my education, I've honed my critical thinking and problem-solving skills to address contemporary challenges. I've also developed proficient coding skills. I have hands-on experience in various programming languages, enabling me to translate theoretical concepts into practical solutions. As I near the completion of my Data Science degree, I am actively seeking opportunities to apply my programming skills in real-world scenarios. If your company is looking for a motivated data science professional, please reach out via email at cranda98@msu.edu or connect with me on LinkedIn to explore how I can contribute to your team's success.
+      I've always been drawn to creative problem-solving, starting with my childhood fascination with computers and puzzle games. 
+      My passion evolved into a focused pursuit, leading me to pursue a Data Science degree at Michigan State University. 
+      Throughout my education, I've developed proficient coding skills.
+      I have hands-on experience in various programming languages, enabling me to translate theoretical concepts into practical solutions. 
+      As I near the completion of my Data Science degree, I am actively seeking opportunities to apply my programming skills in real-world scenarios.
+      If your company is looking for a motivated data science professional, please reach out via email at cranda98@msu.edu to explore how I can contribute to your team's success.
+
 education:
     title: Education
     info:
@@ -70,9 +76,10 @@ experiences:
         time: Summer 2022
         company: GE Aviation, Grand Rapids
         details: |
-          Worked on data analysis and programming.
-            - Developed a program that calculated cycle time for certain projects.
-            - Made complex graphs that reflected cycle time.
+          Worked on data analysis, data visualization and programming.
+            - Supporting teams by helping them improve flow and reduced waste in software development activities
+            - Providing code that produces graphs that show the flow of products and where a team can improve cycle time and reduce waste
+            - Data visualization through various kinds of graphs
       - role: Research Assistant
         time: 2023 - Present
         company: Michigan State University, East Lansing
