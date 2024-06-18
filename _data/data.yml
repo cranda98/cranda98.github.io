@@ -10,24 +10,14 @@ sidebar:
   # Profile information
   name: Lauryn O. Crandall
   tagline: Data Scientist & Programmer
-  avatar: prof_pic.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar:  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: cranda98@msu.edu
-  phone: 555-123-4567
-  timezone: America/Chicago
-  citizenship: 
-  website: cranda98.github.io/portfolio
+  phone: 269-252-194
+  timezone: EST
   linkedin: lauryncrandall
   github: cranda98
-  telegram:
-  gitlab:
-  bitbucket:
-  twitter: '@lauryn_crandall'
-  stack-overflow:
-  codewars:
-  goodreads:
-  pdf:
 
   languages:
     title: Languages
@@ -50,44 +40,30 @@ career-profile:
 education:
   title: Education
   info:
-    - degree: BSc in Computer Science
+    - degree: BSc in Data Science
       university: Michigan State University
       time: 2021 - Present
       details: |
-        Describe your study here. Include relevant coursework and academic achievements.
-          - Relevant coursework: Data Structures, Algorithms, Machine Learning
-          - Dean's List for multiple semesters
+         My degree combines the fields of computer science, statistics, and domain-specific knowledge to equip me with the skills needed to analyze, interpret, and extract meaningful insights from complex data sets. 
+          - Relevant coursework: CMSE 202-203, CSE 232, STT 180
 
 experiences:
   title: Experiences
   info:
-    - role: Data Science Intern
+    - role: Systems Engineer Intern
       time: Summer 2023
-      company: XYZ Company, Location
+      company: GE Aviation, Grand Rapids
       details: |
-        Worked on data analysis and machine learning projects.
-          - Developed models for predicting customer behavior
-          - Automated data processing pipelines
+        Worked on data analysis and programming.
+          - Developed a program that calculated cycle time for certain projects.
+          - Made complex graphs that reflected cycle time.
     - role: Research Assistant
-      time: 2022 - 2023
+      time: 2024 - Present
       company: Michigan State University, East Lansing
       details: |
         Assisted in research projects related to data science.
-          - Analyzed large datasets using Python and R
-          - Presented findings at academic conferences
+          - Analyzing large datasets using Python and Excel
 
-certifications:
-  title: Certifications
-  list:
-    - name: Data Science Certification
-      start: 2023
-      end: 2023
-      organization: Coursera
-      credentialid: 123-456-789
-      credentialurl: https://coursera.org
-      credentialname: Coursera
-      details: |
-        Completed a comprehensive data science course covering machine learning, data visualization, and data analysis.
 
 projects:
   title: Projects
@@ -95,53 +71,34 @@ projects:
     Here are some of the projects I have worked on:
   assignments:
     - title: Can AI pick a competitive Pokemon team?
-      link: "#"
+      link: "https://github.com/sureshs-6/cmse_proj_pokemon"
       tagline: "A team of people and I built an AI that could pick a 'competitive' Pokemon team."
 
     - title: GE Aviation cycle time calculator
       link: "#"
       tagline: "I made a program that calculates project cycle times based on team data."
 
-    - title: Exploring financial factors influencing credit card limit
-      link: "#"
+    - title: Exploring Financial Factors Influencing Credit Card Limit
       tagline: "A team of people and I analyzed credit card datasets to determine influential financial factors."
 
-oss:
-  title: OSS Contributions
-  intro: >
-    Here are some of my contributions to open source software:
-  contributions:
-    - title: Contribution to Open Source Project
-      link: "#"
-      tagline: "Contributed code to an open source project related to data analysis."
-
-publications:
-  title: Publications
-  intro: |
-    Here are some of my publications:
-  papers:
-    - title: Analyzing the Impact of Data Science in Modern Technology
-      link: "#"
-      authors: Lauryn O. Crandall
-      conference: Michigan State University Research Symposium, 2023
 
 skills:
   title: Skills & Proficiency
 
   toolset:
-    - name: Python
+    - name: Python & R
       level: 95%
 
     - name: C++
       level: 90%
 
-    - name: HTML & CSS
+    - name: Excel
       level: 85%
 
     - name: Git & GitHub
       level: 80%
 
-    - name: Excel
+    - name: HTML & CSS
       level: 75%
 
 footer: >
