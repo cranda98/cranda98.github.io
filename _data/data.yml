@@ -49,6 +49,10 @@ sidebar:
         - item: Learning New Things
           link:
 
+    Scan Me:
+      title: Interesting in hiring? Scan Me!
+      qr: MailXto.png
+          
 career-profile:
     title: Career Profile
     summary: |
